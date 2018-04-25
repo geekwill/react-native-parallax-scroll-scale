@@ -1,0 +1,36 @@
+{
+  "name": "react-native-parallax-scroll-scale",
+  "version": "0.0.1",
+  "description": "reactnative ScrollParallax HOC component",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "reactnative",
+    "component",
+    "react"
+  ],
+  "engines": {
+    "node": ">=8",
+    "npm": ">=4"
+  },
+  "author": {
+    "name": "geekwill",
+    "email": "geek.willyu@gmail.com",
+    "url": "http://www.geekcode.me"
+  },
+  "bugs": {
+    "url": "https://github.com/geekwill/react-native-parallax-scroll-scale/issues"
+  },
+  "homepage": "https://github.com/geekwill/react-native-parallax-scroll-scale#readme",
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/geekwill/react-native-parallax-scroll-scale"
+	},
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-native": "^0.55.3"
+  }
+}
