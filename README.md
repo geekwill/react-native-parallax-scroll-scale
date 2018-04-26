@@ -6,13 +6,13 @@ Reactnative a scrolling visual components, using ` HOC ` component encapsulation
 
 ## Installation
 
-`
+```base
 npm i react-native-parallax-scroll-scale --save
-`
+```
 
 ## Quick Start
 
-`
+```jsx
 // index.js
 
 import React, { Component } from 'react';
@@ -32,9 +32,9 @@ class Demo extends Component {
 }
 
 export default Demo;
-`
+```
 
-`
+```jsx
 // DemoParallaxScrollScale.js
 
 import React, { Component } from 'react';
@@ -56,7 +56,7 @@ class DemoParallaxScrollScale extends Component {
 }
 
 export default ParallaxScrollScale(MineCenter);
-`
+```
 
 ## Props
 
