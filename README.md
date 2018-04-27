@@ -42,7 +42,6 @@ import {
   Text,
   View
 } from 'react-native';
-import { Style } from '../../common/style'
 import ParallaxScrollScale from 'react-native-parallax-scroll-scale'
 
 class DemoParallaxScrollScale extends Component {
@@ -64,6 +63,10 @@ Prop | Type | Default | Description
 ---- | --- | --- | ---
 image | String | null | Parallax effect background picture address.
 containerStyle | Obejct | null | container style
+
+## Link
+* [react-native-parallax-scroll-opacity](https://github.com/geekwill/react-native-parallax-scroll-opacity)
+
 
 ## Copyright
 
