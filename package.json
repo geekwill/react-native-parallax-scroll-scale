@@ -1,6 +1,6 @@
 {
   "name": "react-native-parallax-scroll-scale",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "reactnative ScrollParallax HOC component",
   "main": "index.js",
   "scripts": {
